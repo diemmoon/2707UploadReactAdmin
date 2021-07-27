@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "name":"Dương Thị THi Diễm",
+        "tel":"0646156156",
+        "Permission":2
+
+    },
+    {
+        "id":2,
+        "name":"Diễm",
+        "tel":"0646156156",
+        "Permission":2
+
+    },
+    {
+        "id":3,
+        "name":"Duoem",
+        "tel":"0646156156",
+        "Permission":3
+
+    },
+    {
+        "id":4,
+        "name":"Du Nguyễn",
+        "tel":"0646156156",
+        "Permission":2
+
+    },
+    {
+        "id":5,
+        "name":"Ngo thi Thanh",
+        "tel":"0646156156",
+        "Permission":1
+
+    },
+    {
+        "id":6,
+        "name":"Nguyen h THi DIem",
+        "tel":"0646156156",
+        "Permission":1
+
+    },
+    {
+        "id":7,
+        "name":"Duong Nga",
+        "tel":"0646156156",
+        "Permission":3
+
+    }
+
+
+]
